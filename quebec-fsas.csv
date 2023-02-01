@@ -1,0 +1,421 @@
+﻿fsa,region
+G0A,Quebec
+G0C,New Richmond
+G0E,Cloridorme
+G0G,Sept-Iles
+G0H,Mont-Joli
+G0J,Mont-Joli
+G0K,Rimouski
+G0L,Trois-Pistoles
+G0M,Saint-Georges
+G0N,Thetford Mines
+G0P,Victoriaville
+G0R,Levis
+G0S,Trois-Rivieres
+G0T,Rimouski
+G0V,Chicoutimi
+G0W,Jonquiere
+G0X,Trois-Rivieres
+G0Y,Lac-Megantic
+G0Z,Saint-Samuel-de-Horton
+G1A,La Cité-Limoilou
+G1B,Quebec City
+G1C,Quebec City
+G1E,Beauport
+G1G,Charlesbourg
+G1H,Quebec City
+G1J,Quebec City
+G1K,Quebec City
+G1L,La Cité-Limoilou
+G1M,Quebec City
+G1N,Quebec City
+G1P,Quebec City
+G1R,La Cité-Limoilou
+G1S,Quebec City
+G1T,Sainte-Foy
+G1V,Sainte-Foy
+G1W,Sainte-Foy
+G1X,Quebec City
+G1Y,Quebec City
+G2A,Quebec
+G2B,Quebec City
+G2C,Quebec City
+G2E,L'Ancienne-Lorette
+G2G,Sainte-Foy
+G2J,Les Rivières
+G2K,Quebec City
+G2L,Quebec City
+G2M,Quebec City
+G2N,Quebec City
+G3A,Quebec City
+G3B,Lac-Beauport
+G3C,Lac-Delage
+G3E,Quebec City
+G3G,Quebec City
+G3H,Pont-Rouge
+G3J,La Haute-Saint-Charles
+G3K,Quebec City
+G3L,St-Raymond
+G3M,Donnacona
+G3N,Sainte-Catherine-de-la-Jacques-Cartier
+G3S,Shannon
+G3Z,Baie-Saint-Paul
+G4A,Clermont
+G4R,Maliotenam
+G4S,Sept-Iles
+G4T,Cap-aux-Meules
+G4V,Sainte-Anne-des-Monts
+G4W,Matane
+G4X,Gaspé
+G4Z,Baie-Comeau
+G5A,La Malbaie
+G5B,Port-Cartier
+G5C,Baie-Comeau
+G5H,Saint-Joseph-de-Lepage
+G5J,Amqui
+G5L,Rimouski
+G5M,Rimouski
+G5N,Rimouski
+G5R,Rivière-du-Loup
+G5T,Degelis
+G5V,Montmagny
+G5X,Beauceville
+G5Y,Saint-Georges
+G5Z,Saint-Georges
+G6A,Saint-Georges
+G6B,Frontenac
+G6C,Pintendre
+G6E,Sainte-Marie
+G6G,Thetford Mines
+G6H,Irlande
+G6J,Levis
+G6K,Levis
+G6L,Victoriaville
+G6P,Victoriaville
+G6R,Victoriaville
+G6S,Victoriaville
+G6T,Victoriaville
+G6V,Levis
+G6W,Levis
+G6X,Les Chutes-de-la-Chaudière-Est
+G6Y,Desjardins
+G6Z,Saint-Jean-Chrysostome
+G7A,Saint-Nicolas
+G7B,La Baie
+G7G,Chicoutimi
+G7H,Chicoutimi
+G7J,Chicoutimi
+G7K,Chicoutimi
+G7N,Chicoutimi
+G7P,Jonquiere
+G7S,Jonquière
+G7T,Jonquière
+G7X,Jonquière
+G7Y,Jonquière
+G7Z,Jonquière
+G8A,Jonquière
+G8B,Alma
+G8C,Alma
+G8E,Delisle
+G8G,Métabetchouan-Lac-à-la-Croix
+G8H,Roberval
+G8J,Saint-Prime
+G8K,Saint-Félicien
+G8L,Sainte-Élisabeth-de-Proulx
+G8M,Normandin
+G8N,Hébertville
+G8P,Chibougamau
+G8T,Trois-Rivières
+G8V,Trois-Rivières
+G8W,Trois-Rivières
+G8Y,Trois-Rivières
+G8Z,Trois-Rivières
+G9A,Trois-Rivières
+G9B,Trois-Rivières
+G9C,Trois-Rivières
+G9H,Bécancour
+G9N,Shawinigan-Sud
+G9P,Shawinigan-Sud
+G9R,Shawinigan
+G9T,Shawinigan
+G9X,La Bostonnais
+H0M,Akwesasne
+H1A,Montreal
+H1B,Montreal
+H1C,Riviere-des-Prairies-Pointe-aux-Trembles
+H1E,Montréal-Est
+H1G,Montreal
+H1H,Montréal-Nord
+H1J,Montreal
+H1K,Montreal
+H1L,Montréal-Est
+H1M,Montreal
+H1N,Mercier-Hochelaga-Maisonneuve
+H1P,Saint-Leonard
+H1R,Saint-Leonard
+H1S,Montreal
+H1T,Montreal
+H1V,Montreal
+H1W,Montreal
+H1X,Rosemont-La Petite-Patrie
+H1Y,Montreal
+H1Z,Montreal
+H2A,Villeray-Saint-Michel-Parc-Extension
+H2B,Montreal
+H2C,Montreal
+H2E,Montreal
+H2G,Rosemont-La Petite-Patrie
+H2H,Le Plateau-Mont-Royal
+H2J,Le Plateau-Mont-Royal
+H2K,Montreal
+H2L,Montreal
+H2M,Montreal
+H2N,Ahuntsic-Cartierville
+H2P,Villeray-Saint-Michel-Parc-Extension
+H2R,Montreal
+H2S,Montreal
+H2T,Le Plateau-Mont-Royal
+H2V,Montreal
+H2W,Montreal
+H2X,Montreal
+H2Y,Ville-Marie
+H2Z,Ville-Marie
+H3A,Montreal
+H3B,Ville-Marie
+H3C,Montreal
+H3E,Verdun
+H3G,Ville-Marie
+H3H,Montreal
+H3J,Montreal
+H3K,Southwest
+H3L,Montreal
+H3M,Ahuntsic-Cartierville
+H3N,Montreal
+H3P,Mount Royal
+H3R,Mount Royal
+H3S,Montreal
+H3T,Outremont
+H3V,Westmount
+H3W,Côte-Des-Neiges-Notre-Dame-De-Grâce
+H3X,Montreal
+H3Y,Westmount
+H3Z,Westmount
+H4A,Montreal
+H4B,Côte-Des-Neiges-Notre-Dame-De-Grâce
+H4C,Montreal
+H4E,Montreal
+H4G,Verdun
+H4H,Verdun
+H4J,Ahuntsic-Cartierville
+H4K,Montreal
+H4L,Saint-Laurent
+H4M,Saint-Laurent
+H4N,Montreal
+H4P,Montreal
+H4R,Saint-Laurent
+H4S,Dorval
+H4T,Saint-Laurent
+H4V,Montreal
+H4W,Côte Saint-Luc
+H4X,Montreal
+H4Y,Saint-Laurent
+H4Z,Ville-Marie
+H5A,Ville-Marie
+H5B,Ville-Marie
+H7A,Laval
+H7B,Laval
+H7C,Laval
+H7E,Laval
+H7G,Laval
+H7H,Laval
+H7J,Laval
+H7K,Laval
+H7L,Laval
+H7M,Laval
+H7N,Laval
+H7P,Laval
+H7R,Laval
+H7S,"Chomedey, Quebec"
+H7T,Laval
+H7V,Laval
+H7W,Laval
+H7X,Laval
+H7Y,Laval
+H8N,Lasalle
+H8P,Lasalle
+H8R,Montreal
+H8S,Lachine
+H8T,Lachine
+H8Y,Montreal
+H8Z,Pierrefonds-Roxboro
+H9A,Pierrefonds
+H9B,Dollard-Des Ormeaux
+H9C,L'Île-Bizard-Sainte-Geneviève
+H9E,L'Île-Bizard-Sainte-Geneviève
+H9G,Dollard-Des Ormeaux
+H9H,Pierrefonds
+H9J,Pierrefonds
+H9K,Pierrefonds-Roxboro
+H9P,Dorval
+H9R,Dorval
+H9S,Chateauguay
+H9W,Beaconsfield
+H9X,Pierrefonds
+J0A,Victoriaville
+J0B,Sherbrooke
+J0C,"Saint-Léonard-d'Aston, Quebec"
+J0E,Granby
+J0G,Sorel-Tracy
+J0H,Saint-Hyacinthe
+J0J,Saint-Jean-sur-Richelieu
+J0K,Montreal
+J0L,Saint-Jean-sur-Richelieu
+J0M,Salluit
+J0N,Laval
+J0P,Salaberry-de-Valleyfield
+J0R,Saint-Jerome
+J0S,Beauharnois
+J0T,Sainte-Agathe-des-Monts
+J0V,Lachute
+J0W,Val-d'Or
+J0X,Gatineau
+J0Y,Val-d'Or
+J0Z,Taschereau
+J1A,Coaticook
+J1C,Brompton
+J1E,Fleurimont
+J1G,Sherbrooke
+J1H,Sherbrooke
+J1J,Jacques-Cartier
+J1K,Sherbrooke
+J1L,Sherbrooke
+J1M,Sherbrooke
+J1N,Sherbrooke
+J1R,Rock Forest-Saint-Élie-Deauville
+J1S,Windsor
+J1T,Asbestos
+J1X,Orford
+J1Z,Drummondville
+J2A,Drummondville
+J2B,Saint-Charles-de-Drummond
+J2C,Saint-Charles-de-Drummond
+J2E,Saint-Charles-de-Drummond
+J2G,Granby
+J2H,Granby
+J2J,Granby
+J2K,Cowansville
+J2L,Bromont
+J2M,"Shefford, Quebec"
+J2N,Farnham
+J2R,Saint-Hyacinthe
+J2S,Saint-Hyacinthe
+J2T,Saint-Hyacinthe
+J2W,Saint-Jean-sur-Richelieu
+J2X,Saint-Jean-sur-Richelieu
+J2Y,Saint-Jean-sur-Richelieu
+J3A,Saint-Jean-sur-Richelieu
+J3B,Saint-Jean-sur-Richelieu
+J3E,Sainte-Julie
+J3G,Sainte-Julie
+J3H,Beloeil
+J3L,Saint-Jean-sur-Richelieu
+J3M,Marieville
+J3N,Saint-Basile-le-Grand
+J3P,Sainte-Anne-de-Sorel
+J3R,Saint-Joseph-de-Sorel
+J3T,Nicolet
+J3V,St-Bruno-de-Montarville
+J3X,Varennes
+J3Y,Saint-Hubert
+J3Z,Saint-Hubert
+J4B,Boucherville
+J4G,Longueuil
+J4H,Longueuil
+J4J,Longueuil
+J4K,Longueuil
+J4L,Longueuil
+J4M,Longueuil
+J4N,Longueuil
+J4P,Longueuil
+J4R,Greenfield Park
+J4S,Saint-Lambert
+J4T,Saint-Hubert
+J4V,Greenfield Park
+J4W,Brossard
+J4X,Brossard
+J4Y,Brossard
+J4Z,Brossard
+J5A,Saint-Constant
+J5B,Delson
+J5C,Sainte-Catherine
+J5J,Sainte-Sophie
+J5K,Saint-Colomban
+J5L,Saint-Jérôme
+J5M,Saint-Lin-Laurentides
+J5R,Saint-Jean-sur-Richelieu
+J5T,Lavaltrie
+J5V,Louiseville
+J5W,L'Assomption
+J5X,L'Épiphanie
+J5Y,Repentigny
+J5Z,Repentigny
+J6A,Repentigny
+J6E,Joliette
+J6J,Châteauguay
+J6K,Châteauguay
+J6N,Chateauguay
+J6R,Mercier
+J6S,Salaberry-de-Valleyfield
+J6T,Salaberry-de-Valleyfield
+J6V,Terrebonne
+J6W,Terrebonne
+J6X,Terrebonne
+J6Y,Terrebonne
+J6Z,Laval
+J7A,Blainville
+J7B,Blainville
+J7C,Blainville
+J7E,Blainville
+J7G,Sainte-Thérèse
+J7H,Boisbriand
+J7J,Mirabel
+J7K,Mascouche
+J7L,Mascouche
+J7M,Terrebonne
+J7N,Mirabel
+J7P,Saint-Eustache
+J7R,Saint-Eustache
+J7T,Vaudreuil-Dorion
+J7V,Vaudreuil-Dorion
+J7W,Pincourt
+J7X,Les Coteaux
+J7Y,Saint-Jérôme
+J7Z,Saint-Jérôme
+J8A,Saint-Hippolyte
+J8B,Sainte-Adèle
+J8C,Sainte-Agathe-des-Monts
+J8E,Mont-Tremblant
+J8G,Brownsburg-Chatham
+J8H,Lachute
+J8L,Gatineau
+J8M,Gatineau
+J8N,Val-des-Monts
+J8P,Gatineau
+J8R,Gatineau
+J8T,Gatineau
+J8V,Gatineau
+J8X,Hull
+J8Y,Hull
+J8Z,Gatineau
+J9A,Gatineau
+J9B,Chelsea
+J9E,Egan-Sud
+J9H,Gatineau
+J9J,Gatineau
+J9L,Mont-Laurier
+J9P,Val-d'Or
+J9T,Amos
+J9V,Ville-Marie
+J9X,Rouyn-Noranda
+J9Y,Rouyn-Noranda
+J9Z,La Sarre
